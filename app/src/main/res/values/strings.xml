@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">连连看</string>
+    <string name="left_time">剩余时间：</string>
+    <string name="action_exit">退出</string>
+    <string name="action_about">关于</string>
+    <string name="start_game">开始游戏</string>
+    <string name="used_time">所用时间为：$秒</string>
+    <string name="dialog_exit">退出</string>
+    <string name="dialog_replay">再玩一次</string>
+    <string name="dialog_next">下一关</string>
+    <string name="bgm">背景音乐</string>
+    <string name="gamem">游戏音效</string>
+    <string name="login">玩家登录</string>
+</resources>
